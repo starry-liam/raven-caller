@@ -1,4 +1,4 @@
-25612297254922434
+25645596760393757
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -93799,6 +93799,139 @@ rotary encoder
 0
 5
 4
+SEEED Xiao
+XIAO-Add-On
+
+
+0
+56
+14
+SEEED Xiao
+XIAO-ESP32C3-DIP
+
+
+0
+28
+14
+SEEED Xiao
+XIAO-ESP32C3-SMD
+
+
+0
+22
+22
+SEEED Xiao
+XIAO-ESP32C6-DIP
+
+
+0
+28
+14
+SEEED Xiao
+XIAO-ESP32C6-SMD
+
+
+0
+24
+24
+SEEED Xiao
+XIAO-ESP32S3-DIP
+
+
+0
+28
+14
+SEEED Xiao
+XIAO-ESP32S3-SMD
+
+
+0
+24
+24
+SEEED Xiao
+XIAO-MG24-DIP
+
+
+0
+58
+24
+SEEED Xiao
+XIAO-MG24-SMD
+
+
+0
+32
+32
+SEEED Xiao
+XIAO-RA4M1-DIP
+
+
+0
+58
+24
+SEEED Xiao
+XIAO-RA4M1-SMD
+
+
+0
+30
+30
+SEEED Xiao
+XIAO-RP2040-DIP
+
+
+0
+28
+14
+SEEED Xiao
+XIAO-RP2040-SMD
+
+
+0
+20
+20
+SEEED Xiao
+XIAO-RP2350-DIP
+
+
+0
+58
+24
+SEEED Xiao
+XIAO-RP2350-SMD
+
+
+0
+30
+30
+SEEED Xiao
+XIAO-SAMD21-DIP
+
+
+0
+28
+14
+SEEED Xiao
+XIAO-SAMD21-SMD
+
+
+0
+20
+20
+SEEED Xiao
+XIAO-nRF52840-DIP
+
+
+0
+28
+14
+SEEED Xiao
+XIAO-nRF52840-SMD
+
+
+0
+22
+22
 SMA
 SMA_Amphenol_132134_EdgeMount_Horizontal
 Amphenol SMA connector, Edge Mount Horizontal, for 1.6mm PCB, Compatible with Adafruit 1865
