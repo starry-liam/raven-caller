@@ -15236,7 +15236,7 @@
 				)
 			)
 		)
-		(property "Value" "L"
+		(property "Value" "10uH"
 			(at 198.12 57.15 90)
 			(effects
 				(font
